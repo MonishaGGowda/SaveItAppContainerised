@@ -1,0 +1,16 @@
+{
+  "name": "save-it-app",
+  "version": "1.0.0",
+  "description": "Allows you to add, remove, list, read your notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monisha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^13.11.0",
+    "yargs": "^17.7.2"
+  }
+}
