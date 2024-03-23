@@ -16,4 +16,21 @@ cd save-it-app
 **Install all the required packages by doing**
 npm install
 
+
+Usage:
+
+node app.js - Runs the app
+
+Add a note:
+node app.js add --title=<title-name> --body=<content> 
+
+Remove a note:
+node app.js remove --title=<title-name>
+
+List all notes:
+node app.js list
+
+Read a note based on title:
+node app.js read --title=<title-name>
+
 **You are set to go!!!**
